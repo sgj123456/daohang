@@ -89,7 +89,7 @@
         "url": {
             "官网": "https://www.bookstack.cn/"
         },
-        "classify": "搞机专区",
+        "classify": "编程专区",
         "tags": []
     },
     "编程导航": {
@@ -97,7 +97,7 @@
         "url": {
             "官网": "https://www.code-nav.cn/"
         },
-        "classify": "搞机专区",
+        "classify": "编程专区",
         "tags": []
     },
     "菜鸟教程": {
@@ -105,7 +105,7 @@
         "url": {
             "官网": "https://www.runoob.com/"
         },
-        "classify": "搞机专区",
+        "classify": "编程专区",
         "tags": []
     },
     "w3school": {
