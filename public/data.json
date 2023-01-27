@@ -1,0 +1,443 @@
+{
+    "片源导航": {
+        "introduce": "",
+        "url": {
+            "官网": "https://theporndude.com"
+        },
+        "classify": "工口专区",
+        "tags": []
+    },
+    "ACG导航网": {
+        "introduce": "",
+        "url": {
+            "官网": "https://acgdh.cc"
+        },
+        "classify": "工口专区",
+        "tags": []
+    },
+    "ACG盒子": {
+        "introduce": "",
+        "url": {
+            "官网": "https://acgdh.org"
+        },
+        "classify": "工口专区",
+        "tags": []
+    },
+    "萌H导航": {
+        "introduce": "",
+        "url": {
+            "官网": "https://www.hnav.moe"
+        },
+        "classify": "工口专区",
+        "tags": []
+    },
+    "禁漫天堂": {
+        "introduce": "",
+        "url": {
+            "官网": "https://18comic.vip",
+            "软件": "https://18comic.vip/stray",
+            "官网镜像": "https://jmcomic.asia",
+            "软件镜像": "https://jmcomic.asia/stray"
+        },
+        "classify": "工口专区",
+        "tags": []
+    },
+    "Pixiv": {
+        "introduce": "",
+        "url": {
+            "官网": "https://www.pixiv.net",
+            "软件": "https://www.nite07.com/pixiv",
+            "软件蓝奏云": "https://wwn.lanzouw.com/ilwY909upsyh"
+        },
+        "classify": "工口专区",
+        "tags": []
+    },
+    "PicACG": {
+        "introduce": "",
+        "url": {
+            "官网": "https://picacg2022.com"
+        },
+        "classify": "工口专区",
+        "tags": []
+    },
+    "Ehviewer": {
+        "introduce": "",
+        "url": {
+            "官网": "https://down.anxz666.com:2233/xz/3FxqL4BQWTcvsD4TDS+1"
+        },
+        "classify": "工口专区",
+        "tags": []
+    },
+    "可穿戴科技": {
+        "introduce": "",
+        "url": {
+            "官网": "https://wt.tepis.me"
+        },
+        "classify": "工口专区",
+        "tags": []
+    },
+    "Hanime": {
+        "introduce": "H动漫/里番/线上看",
+        "url": {
+            "官网": "https://hanime1.me"
+        },
+        "classify": "工口专区",
+        "tags": []
+    },
+    "Via浏览器": {
+        "introduce": "",
+        "url": {
+            "官网": "https://viayoo.com"
+        },
+        "classify": "软件专区",
+        "tags": []
+    },
+    "NDM下载器": {
+        "introduce": "",
+        "url": {
+            "官网": "http://neatdownloadmanager.com"
+        },
+        "classify": "软件专区",
+        "tags": []
+    },
+    "书栈网": {
+        "introduce": "",
+        "url": {
+            "官网": "https://www.bookstack.cn"
+        },
+        "classify": "编程专区",
+        "tags": []
+    },
+    "编程导航": {
+        "introduce": "",
+        "url": {
+            "官网": "https://www.code-nav.cn"
+        },
+        "classify": "编程专区",
+        "tags": []
+    },
+    "菜鸟教程": {
+        "introduce": "各类编程语言入门",
+        "url": {
+            "官网": "https://www.runoob.com"
+        },
+        "classify": "编程专区",
+        "tags": []
+    },
+    "w3school": {
+        "introduce": "",
+        "url": {
+            "官网": "https://www.w3school.com.cn"
+        },
+        "classify": "编程专区",
+        "tags": []
+    },
+    "MDA": {
+        "introduce": "",
+        "url": {
+            "官网": "https://developer.mozilla.org"
+        },
+        "classify": "编程专区",
+        "tags": []
+    },
+    "力扣": {
+        "introduce": "",
+        "url": {
+            "官网": "https://leetcode.cn"
+        },
+        "classify": "编程专区",
+        "tags": []
+    },
+    "CSDN": {
+        "introduce": "",
+        "url": {
+            "官网": "https://www.csdn.net"
+        },
+        "classify": "编程专区",
+        "tags": []
+    },
+    "Github": {
+        "introduce": "",
+        "url": {
+            "官网": "https://github.com"
+        },
+        "classify": "编程专区",
+        "tags": []
+    },
+    "gitte": {
+        "introduce": "中国境内最大的代码托管平台",
+        "url": {
+            "官网": "https://gitee.com"
+        },
+        "classify": "编程专区",
+        "tags": []
+    },
+    "GitLab": {
+        "introduce": "",
+        "url": {
+            "官网": "https://gitlab.com"
+        },
+        "classify": "编程专区",
+        "tags": []
+    },
+    "hive": {
+        "introduce": "寻找Twitter上的编程组织",
+        "url": {
+            "官网": "https://hive.one"
+        },
+        "classify": "编程专区",
+        "tags": []
+    },
+    "免费API": {
+        "introduce": "",
+        "url": {
+            "官网": "https://api.aa1.cn"
+        },
+        "classify": "编程专区",
+        "tags": []
+    },
+    "萤火虫资源站": {
+        "introduce": "",
+        "url": {
+            "官网": "https://kamiui.ml"
+        },
+        "classify": "搞机专区",
+        "tags": []
+    },
+    "Termux": {
+        "introduce": "",
+        "url": {
+            "官网": "https://termux.dev"
+        },
+        "classify": "搞机专区",
+        "tags": []
+    },
+    "Magisk": {
+        "introduce": "",
+        "url": {
+            "官网": "https://magiskcn.com/magisk-download"
+        },
+        "classify": "搞机专区",
+        "tags": []
+    },
+    "Lsposed": {
+        "introduce": "",
+        "url": {
+            "官网": "https://github.com/LSPosed/LSPosed/releases"
+        },
+        "classify": "搞机专区",
+        "tags": []
+    },
+    "Ubuntu": {
+        "introduce": "",
+        "url": {
+            "官网": "https://ubuntu.com"
+        },
+        "classify": "搞机专区",
+        "tags": []
+    },
+    "Arch Linux": {
+        "introduce": "",
+        "url": {
+            "官网": "https://archlinux.org"
+        },
+        "classify": "搞机专区",
+        "tags": []
+    },
+    "Debian": {
+        "introduce": "",
+        "url": {
+            "官网": "https://www.debian.org"
+        },
+        "classify": "搞机专区",
+        "tags": []
+    },
+    "openSUSE": {
+        "introduce": "",
+        "url": {
+            "官网": "https://www.opensuse.org"
+        },
+        "classify": "搞机专区",
+        "tags": []
+    },
+    "ChromeOS": {
+        "introduce": "",
+        "url": {
+            "官网": "https://chromeos.dev"
+        },
+        "classify": "搞机专区",
+        "tags": []
+    },
+    "Mint": {
+        "introduce": "",
+        "url": {
+            "官网": "https://linuxmint.com"
+        },
+        "classify": "搞机专区",
+        "tags": []
+    },
+    "Kali Linux": {
+        "introduce": "",
+        "url": {
+            "官网": "https://www.kali.org"
+        },
+        "classify": "搞机专区",
+        "tags": []
+    },
+    "MSDN-我告诉你": {
+        "introduce": "",
+        "url": {
+            "官网": "https://msdn.itellyou.cn"
+        },
+        "classify": "搞机专区",
+        "tags": []
+    },
+    "unc0ver": {
+        "introduce": "",
+        "url": {
+            "官网": "https://unc0ver.dev"
+        },
+        "classify": "搞机专区",
+        "tags": []
+    },
+    "Taurine": {
+        "introduce": "",
+        "url": {
+            "官网": "https://taurine.app"
+        },
+        "classify": "搞机专区",
+        "tags": []
+    },
+    "Odyssey": {
+        "introduce": "",
+        "url": {
+            "官网": "https://theodyssey.dev"
+        },
+        "classify": "搞机专区",
+        "tags": []
+    },
+    "checkra1n": {
+        "introduce": "",
+        "url": {
+            "官网": "https://checkra.in"
+        },
+        "classify": "搞机专区",
+        "tags": []
+    },
+    "盘古越狱": {
+        "introduce": "",
+        "url": {
+            "官网": "https://www.pangu.io"
+        },
+        "classify": "搞机专区",
+        "tags": []
+    },
+    "Yandex搜索": {
+        "introduce": "",
+        "url": {
+            "官网": "https://yandex.com"
+        },
+        "classify": "搜索导航",
+        "tags": []
+    },
+    "搜软": {
+        "introduce": "",
+        "url": {
+            "官网": "https://www.souruan.xyz"
+        },
+        "classify": "搜索导航",
+        "tags": []
+    },
+    "奈斯搜索": {
+        "introduce": "",
+        "url": {
+            "官网": "https://www.niceso.fun"
+        },
+        "classify": "搜索导航",
+        "tags": []
+    },
+    "F搜": {
+        "introduce": "",
+        "url": {
+            "官网": "https://fsoufsou.com"
+        },
+        "classify": "搜索导航",
+        "tags": []
+    },
+    "Magi": {
+        "introduce": "",
+        "url": {
+            "官网": "https://magi.com"
+        },
+        "classify": "搜索导航",
+        "tags": []
+    },
+    "谷歌搜索": {
+        "introduce": "",
+        "url": {
+            "官网": "https://www.google.cn"
+        },
+        "classify": "搜索导航",
+        "tags": []
+    },
+    "青柠起始页": {
+        "introduce": "",
+        "url": {
+            "官网": "https://limestart.cn"
+        },
+        "classify": "搜索导航",
+        "tags": []
+    },
+    "Z-Library": {
+        "introduce": "",
+        "url": {
+            "官网": "https://singlelogin.me",
+            "软件蓝奏云": {
+                "introduce": "密码:123456",
+                "url": "https://wwun.lanzouw.com/iFmm40k0mlva"
+            }
+        },
+        "classify": "影音阅读",
+        "tags": []
+    },
+    "漫画迷": {
+        "introduce": "",
+        "url": {
+            "官方仓库": "https://github.com/hongchacha/comic"
+        },
+        "classify": "影音阅读",
+        "tags": []
+    },
+    "安娜的档案": {
+        "introduce": "",
+        "url": {
+            "官网": "https://annas-archive.org"
+        },
+        "classify": "影音阅读",
+        "tags": []
+    },
+    "书单": {
+        "introduce": "",
+        "url": {
+            "官网": "https://www.shudan.vip"
+        },
+        "classify": "影音阅读",
+        "tags": []
+    },
+    "白鲸加速器": {
+        "introduce": "输入邀请码领取免费一个月使用(邀请码:6IP1X)",
+        "url": {
+            "官网": "https://s1.bjch110.com/?mid=1018&invite_code=6IP1X"
+        },
+        "classify": "VPN专区",
+        "tags": []
+    },
+    "ABC VPN": {
+        "introduce": "",
+        "url": {
+            "官网": "http://jsqabc.com/2r6tn"
+        },
+        "classify": "VPN专区",
+        "tags": []
+    }
+}
