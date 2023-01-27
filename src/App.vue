@@ -38,16 +38,22 @@ function openurl(url) {
     </template>
     <Site v-for="(value, key, index) of sites" :title="key" :data="value" @url-click="click" :key="index"></Site>
   </el-card>
+  <el-divider border-style="double" />
+  <strong><a
+      href="https://qm.qq.com/cgi-bin/qm/qr?k=_BxlwK28m8xdR8UfC2yYmlKF8dOSIodz&noverify=0&personal_qrcode_source=3">站长QQ:2586743928</a></strong>
+  <strong><a href="https://jq.qq.com/?_wv=1027&k=cTCU2yu2">QQ群:920198227</a></strong>
 </template>
 
 <style scoped>
 .el-card {
   width: 100% !important;
 }
-#guanbi{
+
+#guanbi {
   position: fixed;
   right: 0;
 }
+
 #zhanshi {
   margin-top: 80%;
   background-color: white;
